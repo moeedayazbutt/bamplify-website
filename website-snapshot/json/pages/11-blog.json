@@ -1,0 +1,270 @@
+﻿{
+    "id":  11,
+    "date":  "2026-08-26T21:49:48",
+    "date_gmt":  "2026-08-26T21:49:48",
+    "guid":  {
+                 "rendered":  "https://www.bamplify.io/?page_id=11"
+             },
+    "modified":  "2026-08-28T22:21:18",
+    "modified_gmt":  "2026-08-28T22:21:18",
+    "slug":  "blog",
+    "status":  "publish",
+    "type":  "page",
+    "link":  "https://www.bamplify.io/blog/",
+    "title":  {
+                  "rendered":  "Blog"
+              },
+    "content":  {
+                    "rendered":  "\n\u003cdiv class=\"wp-block-group has-background is-layout-constrained wp-container-core-group-is-layout-cdca279a wp-block-group-is-layout-constrained\" style=\"background-color:#f8f8f8;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--10)\"\u003e\n\u003cdiv class=\"wp-block-group thryve-biz-agency-section-title-wrapper is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-0bf03259 wp-block-group-is-layout-flex\" style=\"padding-bottom:var(--wp--preset--spacing--40)\"\u003e\n\u003cdiv class=\"wp-block-group is-layout-constrained wp-container-core-group-is-layout-dd93c21f wp-block-group-is-layout-constrained\" style=\"margin-top:0;margin-bottom:0;padding-top:0\"\u003e\n\u003cdiv class=\"wp-block-group is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-3329fb84 wp-block-group-is-layout-constrained\"\u003e\n\u003cp class=\"has-text-align-center has-primary-background-color has-background has-small-font-size wp-block-paragraph\" style=\"border-top-left-radius:50px;border-top-right-radius:50px;border-bottom-left-radius:50px;border-bottom-right-radius:50px;margin-top:0;margin-bottom:12px;padding-top:8px;padding-right:12px;padding-bottom:8px;padding-left:12px;font-style:normal;font-weight:600;text-transform:uppercase\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\n\n\u003ch2 class=\"wp-block-heading has-text-align-left has-xx-large-font-size\" style=\"margin-top:0;margin-bottom:0;line-height:1.2;text-transform:capitalize\"\u003eNews \u0026amp; Blogs\u003c/h2\u003e\n\u003c/div\u003e\n\n\n\n\u003cdiv class=\"wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-0433bebf wp-block-buttons-is-layout-flex\" style=\"margin-top:20px\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n\n\n\n\u003cdiv class=\"wp-block-query wow animate__animated animate__fadeInUp is-layout-flow wp-block-query-is-layout-flow\"\u003e\u003cul class=\"wp-block-post-template is-layout-grid wp-container-core-post-template-is-layout-c17ec086 wp-block-post-template-is-layout-grid\"\u003e\u003cli class=\"wp-block-post post-17 post type-post status-publish format-standard hentry category-uncategorized\"\u003e\n\n\u003cdiv class=\"wp-block-group has-white-background-color has-background is-layout-constrained wp-block-group-is-layout-constrained\"\u003e\n\n\n\u003cdiv class=\"wp-block-group is-layout-constrained wp-container-core-group-is-layout-081ecb7d wp-block-group-is-layout-constrained\" style=\"margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)\"\u003e\n\u003cdiv class=\"wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-7387b849 wp-block-group-is-layout-flex\"\u003e\u003cdiv class=\"wp-block-post-date\"\u003e\u003ctime datetime=\"2026-04-28T07:47:38.023Z\"\u003e28 April 2026\u003c/time\u003e\u003c/div\u003e\n\n\u003cdiv class=\"wp-block-post-author-name\"\u003eBamplify\u003c/div\u003e\u003c/div\u003e\n\n\n\u003ch3 class=\"has-link-color wp-elements-1 wp-block-post-title has-text-color has-ast-global-color-2-color\"\u003e\u003ca href=\"https://www.bamplify.io/test-2/\" target=\"_self\" \u003eTest 2\u003c/a\u003e\u003c/h3\u003e\n\n\n\u003cdiv class=\"wp-block-group is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-54d22900 wp-block-group-is-layout-constrained\"\u003e\u003ca style=\"border-top-left-radius:50px;border-top-right-radius:50px;border-bottom-left-radius:50px;border-bottom-right-radius:50px;padding-top:10px;padding-bottom:10px;padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30)\" class=\"wp-block-read-more has-background has-black-background-color has-small-font-size\" href=\"https://www.bamplify.io/test-2/\" target=\"_blank\"\u003eRead more\u003cspan class=\"screen-reader-text\"\u003e: Test 2\u003c/span\u003e\u003c/a\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\n\u003c/li\u003e\u003cli class=\"wp-block-post post-1 post type-post status-publish format-standard hentry category-uncategorized\"\u003e\n\n\u003cdiv class=\"wp-block-group has-white-background-color has-background is-layout-constrained wp-block-group-is-layout-constrained\"\u003e\n\n\n\u003cdiv class=\"wp-block-group is-layout-constrained wp-container-core-group-is-layout-081ecb7d wp-block-group-is-layout-constrained\" style=\"margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)\"\u003e\n\u003cdiv class=\"wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-7387b849 wp-block-group-is-layout-flex\"\u003e\u003cdiv class=\"wp-block-post-date\"\u003e\u003ctime datetime=\"2026-04-28T07:47:38.023Z\"\u003e28 April 2026\u003c/time\u003e\u003c/div\u003e\n\n\u003cdiv class=\"wp-block-post-author-name\"\u003eBamplify\u003c/div\u003e\u003c/div\u003e\n\n\n\u003ch3 class=\"has-link-color wp-elements-2 wp-block-post-title has-text-color has-ast-global-color-2-color\"\u003e\u003ca href=\"https://www.bamplify.io/hello-world/\" target=\"_self\" \u003eHello world!\u003c/a\u003e\u003c/h3\u003e\n\n\n\u003cdiv class=\"wp-block-group is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-54d22900 wp-block-group-is-layout-constrained\"\u003e\u003ca style=\"border-top-left-radius:50px;border-top-right-radius:50px;border-bottom-left-radius:50px;border-bottom-right-radius:50px;padding-top:10px;padding-bottom:10px;padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30)\" class=\"wp-block-read-more has-background has-black-background-color has-small-font-size\" href=\"https://www.bamplify.io/hello-world/\" target=\"_blank\"\u003eRead more\u003cspan class=\"screen-reader-text\"\u003e: Hello world!\u003c/span\u003e\u003c/a\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\n\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e\n\u003c/div\u003e\n\n\n        \u003cdiv class=\"rttpg-block-postgrid rttpg-block-wrapper rttpg-block-673ace tpg-filter-type-dropdown meta-visibility-show section-title-style-style1 img_hover_animation_default title-default title_position_default title_hover_border_default meta_position_default tpg-is-author-icon-default author-image-visibility-icon tpg-category-position-default readmore-btn-default-style grid-hover-overlay-type-always grid-hover-overlay-height-default hover-overlay-height-default tpg-title-border-default filter-nex-prev-btn-visible tpg-cat-style1 slider-scroll-hide act-label-style-inline\"\u003e\n            \u003cdiv class=\"rt-container-fluid rt-tpg-container tpg-el-main-wrapper tpg-gutenberg clearfix grid-layout1-main\"\n                 id=\"rt-tpg-container-339722470\"\n                 data-layout=\"grid-layout1\"\n                 data-grid-style=\"tpg-even\" data-sc-id=\"elementor\"\n                 data-el-settings=\u0027\u0027\n                 data-el-query=\u0027\u0027\n                 data-el-path=\u0027\u0027\u003e\n\t\t\t\t                    \u003cdiv id=\"bottom-script-loader\" class=\"bottom-script-loader\"\u003e\n                        \u003cdiv class=\"rt-ball-clip-rotate\"\u003e\n                            \u003cdiv\u003e\u003c/div\u003e\n                        \u003c/div\u003e\n                    \u003c/div\u003e\n\t\t\t\t\t                \u003cdiv class=\u0027tpg-header-wrapper \u0027\u003e\n\t\t\t\t\t\n\t\t\u003cdiv class=\"tpg-widget-heading-wrapper rt-clear heading-style1 \"\u003e\n\t\t\t\u003cspan class=\"tpg-widget-heading-line line-left\"\u003e\u003c/span\u003e\n\t\t\t\u003ch2 class=\u0027tpg-widget-heading\u0027\u003e\n\t\t\t\t\t\t\u003ca href=\"#\"  \u003e\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\u003cspan\u003e\n\t\t\t\t\t\tSection Title\t\t\t\t\t\u003c/span\u003e\n\t\t\t\t\t\n\t\t\t\t\t\t\t\u003c/a\u003e\n\n\t\t\t\t\t\u003c/h2\u003e\t\t\t\u003cspan class=\"tpg-widget-heading-line line-right\"\u003e\u003c/span\u003e\n\n\t\t\t\n\t\t\u003c/div\u003e\n\n\t\t\n\t\t                \u003c/div\u003e\n\n                \u003cdiv class=\"rt-row rt-content-loader gutenberg-inner grid-layout1 grid-behaviour tpg-even grid_layout_wrapper\"\u003e\n\t\t\t\t\t\n\u003cdiv class=\"rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item post-17 post type-post status-publish format-standard hentry category-uncategorized\"        data-id=\"17\"\u003e\n    \u003cdiv class=\"rt-holder tpg-post-holder \"\u003e\n        \u003cdiv class=\"rt-detail rt-el-content-wrapper\"\u003e\n\t\t\t                \u003cdiv class=\"rt-img-holder tpg-el-image-wrap has-no-thumbnail\"\u003e\n\t\t\t\t\t\u003ca data-id=\"17\" href=\"https://www.bamplify.io/test-2/\" class=\"tpg-post-link\" target=\"_self\"\u003e\t\t\n\t\t\u003c/a\u003e\n\t\t\t\t\u003cdiv class=\"overlay grid-hover-content\"\u003e\u003c/div\u003e\n\t\t                \u003c/div\u003e\n\t\t\t\n\t\t\t\u003cdiv class=\"entry-title-wrapper\"\u003e\u003ch3 class=\"entry-title\"\u003e\u003ca data-id=\"17\" href=\"https://www.bamplify.io/test-2/\" class=\"tpg-post-link\" target=\"_self\"\u003eTest 2\u003c/a\u003e\u003c/h3\u003e\u003c/div\u003e\n\t\t\t                \u003cdiv class=\"post-meta-tags rt-el-post-meta\"\u003e\n\t\t\t\t\t\t\t\t\u003cspan class=\"author \"\u003e\n\n\t\t\t\t\u003ci class=\"tpg-flaticon-user \"\u003e\u003c/i\u003e\u003cspan class=\"author-prefix\"\u003eBy\u003c/span\u003e\u003ca href=\"https://www.bamplify.io/author/bamplify/\"\u003eBamplify\u003c/a\u003e\t\t\t\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"categories-links\"\u003e\n\t\t\t\t\u003ci class=\"tpg-flaticon-folder \"\u003e\u003c/i\u003e\u003ca class=\"uncategorized\" href=\"https://www.bamplify.io/category/uncategorized/\"\u003eUncategorized\u003c/a\u003e\t\t\t\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"date\"\u003e\n\t\t\t\t\u003ci class=\"tpg-flaticon-calendar \"\u003e\u003c/i\u003e\t\t\t\t\t\t\t\t\t\u003ca href=\"https://www.bamplify.io/2026/08/26/\"\u003e\n\t\t\t\t\t26 August 2026\t\t\t\t\u003c/a\u003e\n\t\t\t\t\t\t\t\u003c/span\u003e\n\t\t\t                \u003c/div\u003e\n\t\t\t\n\t\t\t                \u003cdiv class=\"tpg-excerpt tpg-el-excerpt\"\u003e\n\t\t\t\t\t                        \u003cdiv class=\"tpg-excerpt-inner\"\u003e\n\t\t\t\t\t\t\tasdfasdsad\u0026#8230;                        \u003c/div\u003e\n\t\t\t\t\t\t\t\t\t\t                \u003c/div\u003e\n\t\t\t\t\t\u003cdiv class=\"post-footer\"\u003e\n\t\t\t\u003cdiv class=\"post-footer\"\u003e\n\t\t\t\t\u003cdiv class=\"read-more\"\u003e\n\t\t\t\t\t\u003ca data-id=\"17\" href=\"https://www.bamplify.io/test-2/\" class=\"tpg-post-link\" target=\"_self\"\u003eRead More\u003c/a\u003e\t\t\t\t\u003c/div\u003e\n\t\t\t\u003c/div\u003e\n\t\t\u003c/div\u003e\n\t\t        \u003c/div\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item post-1 post type-post status-publish format-standard hentry category-uncategorized\"        data-id=\"1\"\u003e\n    \u003cdiv class=\"rt-holder tpg-post-holder \"\u003e\n        \u003cdiv class=\"rt-detail rt-el-content-wrapper\"\u003e\n\t\t\t                \u003cdiv class=\"rt-img-holder tpg-el-image-wrap has-no-thumbnail\"\u003e\n\t\t\t\t\t\u003ca data-id=\"1\" href=\"https://www.bamplify.io/hello-world/\" class=\"tpg-post-link\" target=\"_self\"\u003e\t\t\n\t\t\u003c/a\u003e\n\t\t\t\t\u003cdiv class=\"overlay grid-hover-content\"\u003e\u003c/div\u003e\n\t\t                \u003c/div\u003e\n\t\t\t\n\t\t\t\u003cdiv class=\"entry-title-wrapper\"\u003e\u003ch3 class=\"entry-title\"\u003e\u003ca data-id=\"1\" href=\"https://www.bamplify.io/hello-world/\" class=\"tpg-post-link\" target=\"_self\"\u003eHello world!\u003c/a\u003e\u003c/h3\u003e\u003c/div\u003e\n\t\t\t                \u003cdiv class=\"post-meta-tags rt-el-post-meta\"\u003e\n\t\t\t\t\t\t\t\t\u003cspan class=\"author \"\u003e\n\n\t\t\t\t\u003ci class=\"tpg-flaticon-user \"\u003e\u003c/i\u003e\u003cspan class=\"author-prefix\"\u003eBy\u003c/span\u003e\u003ca href=\"https://www.bamplify.io/author/bamplify/\"\u003eBamplify\u003c/a\u003e\t\t\t\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"categories-links\"\u003e\n\t\t\t\t\u003ci class=\"tpg-flaticon-folder \"\u003e\u003c/i\u003e\u003ca class=\"uncategorized\" href=\"https://www.bamplify.io/category/uncategorized/\"\u003eUncategorized\u003c/a\u003e\t\t\t\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"date\"\u003e\n\t\t\t\t\u003ci class=\"tpg-flaticon-calendar \"\u003e\u003c/i\u003e\t\t\t\t\t\t\t\t\t\u003ca href=\"https://www.bamplify.io/2026/08/26/\"\u003e\n\t\t\t\t\t26 August 2026\t\t\t\t\u003c/a\u003e\n\t\t\t\t\t\t\t\u003c/span\u003e\n\t\t\t                \u003c/div\u003e\n\t\t\t\n\t\t\t                \u003cdiv class=\"tpg-excerpt tpg-el-excerpt\"\u003e\n\t\t\t\t\t                        \u003cdiv class=\"tpg-excerpt-inner\"\u003e\n\t\t\t\t\t\t\tWelcome to WordPress. This is your first post. Edit or delete it, then start writing!\u0026#8230;                        \u003c/div\u003e\n\t\t\t\t\t\t\t\t\t\t                \u003c/div\u003e\n\t\t\t\t\t\u003cdiv class=\"post-footer\"\u003e\n\t\t\t\u003cdiv class=\"post-footer\"\u003e\n\t\t\t\t\u003cdiv class=\"read-more\"\u003e\n\t\t\t\t\t\u003ca data-id=\"1\" href=\"https://www.bamplify.io/hello-world/\" class=\"tpg-post-link\" target=\"_self\"\u003eRead More\u003c/a\u003e\t\t\t\t\u003c/div\u003e\n\t\t\t\u003c/div\u003e\n\t\t\u003c/div\u003e\n\t\t        \u003c/div\u003e\n    \u003c/div\u003e\n\u003c/div\u003e                \u003c/div\u003e\n\n\t\t\t\t\n            \u003c/div\u003e\n        \u003c/div\u003e\n\t\t",
+                    "protected":  false
+                },
+    "excerpt":  {
+                    "rendered":  "\u003cp\u003eNews \u0026amp; Blogs\u003c/p\u003e\n",
+                    "protected":  false
+                },
+    "author":  1,
+    "featured_media":  203,
+    "parent":  0,
+    "menu_order":  0,
+    "comment_status":  "closed",
+    "ping_status":  "closed",
+    "template":  "",
+    "meta":  {
+                 "site-sidebar-layout":  "default",
+                 "site-content-layout":  "",
+                 "ast-site-content-layout":  "default",
+                 "site-content-style":  "default",
+                 "site-sidebar-style":  "default",
+                 "ast-global-header-display":  "",
+                 "ast-banner-title-visibility":  "",
+                 "ast-main-header-display":  "",
+                 "ast-hfb-above-header-display":  "",
+                 "ast-hfb-below-header-display":  "",
+                 "ast-hfb-mobile-header-display":  "",
+                 "site-post-title":  "",
+                 "ast-breadcrumbs-content":  "",
+                 "ast-featured-img":  "disabled",
+                 "footer-sml-layout":  "",
+                 "ast-disable-related-posts":  "",
+                 "theme-transparent-header-meta":  "",
+                 "adv-header-id-meta":  "",
+                 "stick-header-meta":  "",
+                 "header-above-stick-meta":  "",
+                 "header-main-stick-meta":  "",
+                 "header-below-stick-meta":  "",
+                 "astra-migrate-meta-layouts":  "set",
+                 "ast-page-background-enabled":  "default",
+                 "ast-page-background-meta":  {
+                                                  "desktop":  {
+                                                                  "background-color":  "var(--ast-global-color-4)",
+                                                                  "background-image":  "",
+                                                                  "background-repeat":  "repeat",
+                                                                  "background-position":  "center center",
+                                                                  "background-size":  "auto",
+                                                                  "background-attachment":  "scroll",
+                                                                  "background-type":  "",
+                                                                  "background-media":  "",
+                                                                  "overlay-type":  "",
+                                                                  "overlay-color":  "",
+                                                                  "overlay-opacity":  "",
+                                                                  "overlay-gradient":  ""
+                                                              },
+                                                  "tablet":  {
+                                                                 "background-color":  "",
+                                                                 "background-image":  "",
+                                                                 "background-repeat":  "repeat",
+                                                                 "background-position":  "center center",
+                                                                 "background-size":  "auto",
+                                                                 "background-attachment":  "scroll",
+                                                                 "background-type":  "",
+                                                                 "background-media":  "",
+                                                                 "overlay-type":  "",
+                                                                 "overlay-color":  "",
+                                                                 "overlay-opacity":  "",
+                                                                 "overlay-gradient":  ""
+                                                             },
+                                                  "mobile":  {
+                                                                 "background-color":  "",
+                                                                 "background-image":  "",
+                                                                 "background-repeat":  "repeat",
+                                                                 "background-position":  "center center",
+                                                                 "background-size":  "auto",
+                                                                 "background-attachment":  "scroll",
+                                                                 "background-type":  "",
+                                                                 "background-media":  "",
+                                                                 "overlay-type":  "",
+                                                                 "overlay-color":  "",
+                                                                 "overlay-opacity":  "",
+                                                                 "overlay-gradient":  ""
+                                                             }
+                                              },
+                 "ast-content-background-meta":  {
+                                                     "desktop":  {
+                                                                     "background-color":  "var(--ast-global-color-5)",
+                                                                     "background-image":  "",
+                                                                     "background-repeat":  "repeat",
+                                                                     "background-position":  "center center",
+                                                                     "background-size":  "auto",
+                                                                     "background-attachment":  "scroll",
+                                                                     "background-type":  "",
+                                                                     "background-media":  "",
+                                                                     "overlay-type":  "",
+                                                                     "overlay-color":  "",
+                                                                     "overlay-opacity":  "",
+                                                                     "overlay-gradient":  ""
+                                                                 },
+                                                     "tablet":  {
+                                                                    "background-color":  "var(--ast-global-color-5)",
+                                                                    "background-image":  "",
+                                                                    "background-repeat":  "repeat",
+                                                                    "background-position":  "center center",
+                                                                    "background-size":  "auto",
+                                                                    "background-attachment":  "scroll",
+                                                                    "background-type":  "",
+                                                                    "background-media":  "",
+                                                                    "overlay-type":  "",
+                                                                    "overlay-color":  "",
+                                                                    "overlay-opacity":  "",
+                                                                    "overlay-gradient":  ""
+                                                                },
+                                                     "mobile":  {
+                                                                    "background-color":  "var(--ast-global-color-5)",
+                                                                    "background-image":  "",
+                                                                    "background-repeat":  "repeat",
+                                                                    "background-position":  "center center",
+                                                                    "background-size":  "auto",
+                                                                    "background-attachment":  "scroll",
+                                                                    "background-type":  "",
+                                                                    "background-media":  "",
+                                                                    "overlay-type":  "",
+                                                                    "overlay-color":  "",
+                                                                    "overlay-opacity":  "",
+                                                                    "overlay-gradient":  ""
+                                                                }
+                                                 },
+                 "footnotes":  ""
+             },
+    "class_list":  [
+                       "post-11",
+                       "page",
+                       "type-page",
+                       "status-publish",
+                       "has-post-thumbnail",
+                       "hentry"
+                   ],
+    "rttpg_featured_image_url":  {
+                                     "full":  [
+                                                  "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                  1800,
+                                                  1200,
+                                                  false
+                                              ],
+                                     "landscape":  [
+                                                       "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                       1800,
+                                                       1200,
+                                                       false
+                                                   ],
+                                     "portraits":  [
+                                                       "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                       1800,
+                                                       1200,
+                                                       false
+                                                   ],
+                                     "thumbnail":  [
+                                                       "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                       150,
+                                                       100,
+                                                       false
+                                                   ],
+                                     "medium":  [
+                                                    "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                    300,
+                                                    200,
+                                                    false
+                                                ],
+                                     "large":  [
+                                                   "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                   1024,
+                                                   683,
+                                                   false
+                                               ],
+                                     "1536x1536":  [
+                                                       "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                       1536,
+                                                       1024,
+                                                       false
+                                                   ],
+                                     "2048x2048":  [
+                                                       "https://www.bamplify.io/wp-content/uploads/2022/03/Agency.jpg",
+                                                       1800,
+                                                       1200,
+                                                       false
+                                                   ]
+                                 },
+    "rttpg_author":  {
+                         "display_name":  "Bamplify",
+                         "author_link":  "https://www.bamplify.io/author/bamplify/"
+                     },
+    "rttpg_comment":  0,
+    "rttpg_category":  null,
+    "rttpg_excerpt":  "News \u0026amp; Blogs",
+    "_links":  {
+                   "self":  [
+                                {
+                                    "href":  "https://www.bamplify.io/wp-json/wp/v2/pages/11",
+                                    "targetHints":  {
+                                                        "allow":  [
+                                                                      "GET"
+                                                                  ]
+                                                    }
+                                }
+                            ],
+                   "collection":  [
+                                      {
+                                          "href":  "https://www.bamplify.io/wp-json/wp/v2/pages"
+                                      }
+                                  ],
+                   "about":  [
+                                 {
+                                     "href":  "https://www.bamplify.io/wp-json/wp/v2/types/page"
+                                 }
+                             ],
+                   "author":  [
+                                  {
+                                      "embeddable":  true,
+                                      "href":  "https://www.bamplify.io/wp-json/wp/v2/users/1"
+                                  }
+                              ],
+                   "replies":  [
+                                   {
+                                       "embeddable":  true,
+                                       "href":  "https://www.bamplify.io/wp-json/wp/v2/comments?post=11"
+                                   }
+                               ],
+                   "version-history":  [
+                                           {
+                                               "count":  0,
+                                               "href":  "https://www.bamplify.io/wp-json/wp/v2/pages/11/revisions"
+                                           }
+                                       ],
+                   "wp:featuredmedia":  [
+                                            {
+                                                "embeddable":  true,
+                                                "href":  "https://www.bamplify.io/wp-json/wp/v2/media/203"
+                                            }
+                                        ],
+                   "wp:attachment":  [
+                                         {
+                                             "href":  "https://www.bamplify.io/wp-json/wp/v2/media?parent=11"
+                                         }
+                                     ],
+                   "curies":  [
+                                  {
+                                      "name":  "wp",
+                                      "href":  "https://api.w.org/{rel}",
+                                      "templated":  true
+                                  }
+                              ]
+               }
+}

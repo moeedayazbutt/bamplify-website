@@ -1,0 +1,269 @@
+﻿{
+    "id":  1049,
+    "date":  "2026-08-27T03:03:25",
+    "date_gmt":  "2026-08-27T03:03:25",
+    "guid":  {
+                 "rendered":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png"
+             },
+    "modified":  "2026-08-27T03:03:25",
+    "modified_gmt":  "2026-08-27T03:03:25",
+    "slug":  "cropped-bamplify-logo-png",
+    "status":  "inherit",
+    "type":  "attachment",
+    "link":  "https://www.bamplify.io/bamplify-logo/cropped-bamplify-logo-png/",
+    "title":  {
+                  "rendered":  "cropped bamplify logo.png"
+              },
+    "author":  1,
+    "featured_media":  0,
+    "comment_status":  "open",
+    "ping_status":  "closed",
+    "template":  "",
+    "meta":  {
+                 "site-sidebar-layout":  "default",
+                 "site-content-layout":  "",
+                 "ast-site-content-layout":  "default",
+                 "site-content-style":  "default",
+                 "site-sidebar-style":  "default",
+                 "ast-global-header-display":  "",
+                 "ast-banner-title-visibility":  "",
+                 "ast-main-header-display":  "",
+                 "ast-hfb-above-header-display":  "",
+                 "ast-hfb-below-header-display":  "",
+                 "ast-hfb-mobile-header-display":  "",
+                 "site-post-title":  "",
+                 "ast-breadcrumbs-content":  "",
+                 "ast-featured-img":  "",
+                 "footer-sml-layout":  "",
+                 "ast-disable-related-posts":  "",
+                 "theme-transparent-header-meta":  "",
+                 "adv-header-id-meta":  "",
+                 "stick-header-meta":  "",
+                 "header-above-stick-meta":  "",
+                 "header-main-stick-meta":  "",
+                 "header-below-stick-meta":  "",
+                 "astra-migrate-meta-layouts":  "default",
+                 "ast-page-background-enabled":  "default",
+                 "ast-page-background-meta":  {
+                                                  "desktop":  {
+                                                                  "background-color":  "var(--ast-global-color-4)",
+                                                                  "background-image":  "",
+                                                                  "background-repeat":  "repeat",
+                                                                  "background-position":  "center center",
+                                                                  "background-size":  "auto",
+                                                                  "background-attachment":  "scroll",
+                                                                  "background-type":  "",
+                                                                  "background-media":  "",
+                                                                  "overlay-type":  "",
+                                                                  "overlay-color":  "",
+                                                                  "overlay-opacity":  "",
+                                                                  "overlay-gradient":  ""
+                                                              },
+                                                  "tablet":  {
+                                                                 "background-color":  "",
+                                                                 "background-image":  "",
+                                                                 "background-repeat":  "repeat",
+                                                                 "background-position":  "center center",
+                                                                 "background-size":  "auto",
+                                                                 "background-attachment":  "scroll",
+                                                                 "background-type":  "",
+                                                                 "background-media":  "",
+                                                                 "overlay-type":  "",
+                                                                 "overlay-color":  "",
+                                                                 "overlay-opacity":  "",
+                                                                 "overlay-gradient":  ""
+                                                             },
+                                                  "mobile":  {
+                                                                 "background-color":  "",
+                                                                 "background-image":  "",
+                                                                 "background-repeat":  "repeat",
+                                                                 "background-position":  "center center",
+                                                                 "background-size":  "auto",
+                                                                 "background-attachment":  "scroll",
+                                                                 "background-type":  "",
+                                                                 "background-media":  "",
+                                                                 "overlay-type":  "",
+                                                                 "overlay-color":  "",
+                                                                 "overlay-opacity":  "",
+                                                                 "overlay-gradient":  ""
+                                                             }
+                                              },
+                 "ast-content-background-meta":  {
+                                                     "desktop":  {
+                                                                     "background-color":  "var(--ast-global-color-5)",
+                                                                     "background-image":  "",
+                                                                     "background-repeat":  "repeat",
+                                                                     "background-position":  "center center",
+                                                                     "background-size":  "auto",
+                                                                     "background-attachment":  "scroll",
+                                                                     "background-type":  "",
+                                                                     "background-media":  "",
+                                                                     "overlay-type":  "",
+                                                                     "overlay-color":  "",
+                                                                     "overlay-opacity":  "",
+                                                                     "overlay-gradient":  ""
+                                                                 },
+                                                     "tablet":  {
+                                                                    "background-color":  "var(--ast-global-color-5)",
+                                                                    "background-image":  "",
+                                                                    "background-repeat":  "repeat",
+                                                                    "background-position":  "center center",
+                                                                    "background-size":  "auto",
+                                                                    "background-attachment":  "scroll",
+                                                                    "background-type":  "",
+                                                                    "background-media":  "",
+                                                                    "overlay-type":  "",
+                                                                    "overlay-color":  "",
+                                                                    "overlay-opacity":  "",
+                                                                    "overlay-gradient":  ""
+                                                                },
+                                                     "mobile":  {
+                                                                    "background-color":  "var(--ast-global-color-5)",
+                                                                    "background-image":  "",
+                                                                    "background-repeat":  "repeat",
+                                                                    "background-position":  "center center",
+                                                                    "background-size":  "auto",
+                                                                    "background-attachment":  "scroll",
+                                                                    "background-type":  "",
+                                                                    "background-media":  "",
+                                                                    "overlay-type":  "",
+                                                                    "overlay-color":  "",
+                                                                    "overlay-opacity":  "",
+                                                                    "overlay-gradient":  ""
+                                                                }
+                                                 }
+             },
+    "class_list":  [
+                       "post-1049",
+                       "attachment",
+                       "type-attachment",
+                       "status-inherit",
+                       "hentry"
+                   ],
+    "description":  {
+                        "rendered":  "\u003cp class=\"attachment\"\u003e\u003ca href=\u0027https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png\u0027\u003e\u003cimg decoding=\"async\" width=\"300\" height=\"77\" src=\"https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-220x57.png\" class=\"attachment-medium size-medium\" alt=\"cropped bamplify logo.png\" srcset=\"https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-300x77.png 300w, https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-768x197.png 768w, https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-220x57.png 220w, https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png 875w\" sizes=\"(max-width: 300px) 100vw, 300px\"  title=\"cropped bamplify logo.png\" /\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ehttps://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png\u003c/p\u003e\n"
+                    },
+    "caption":  {
+                    "rendered":  "\u003cp\u003ehttps://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png\u003c/p\u003e\n"
+                },
+    "alt_text":  "cropped bamplify logo.png",
+    "media_type":  "image",
+    "mime_type":  "image/png",
+    "media_details":  {
+                          "width":  875,
+                          "height":  225,
+                          "file":  "2026/08/cropped-bamplify-logo.png",
+                          "filesize":  17182,
+                          "sizes":  {
+                                        "medium":  {
+                                                       "file":  "cropped-bamplify-logo-300x77.png",
+                                                       "width":  300,
+                                                       "height":  77,
+                                                       "filesize":  7281,
+                                                       "mime_type":  "image/png",
+                                                       "source_url":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-300x77.png"
+                                                   },
+                                        "thumbnail":  {
+                                                          "file":  "cropped-bamplify-logo-150x150.png",
+                                                          "width":  150,
+                                                          "height":  150,
+                                                          "filesize":  4084,
+                                                          "mime_type":  "image/png",
+                                                          "source_url":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-150x150.png"
+                                                      },
+                                        "medium_large":  {
+                                                             "file":  "cropped-bamplify-logo-768x197.png",
+                                                             "width":  768,
+                                                             "height":  197,
+                                                             "filesize":  19704,
+                                                             "mime_type":  "image/png",
+                                                             "source_url":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-768x197.png"
+                                                         },
+                                        "ast-logo-size":  {
+                                                              "file":  "cropped-bamplify-logo-220x57.png",
+                                                              "width":  220,
+                                                              "height":  57,
+                                                              "filesize":  5468,
+                                                              "mime_type":  "image/png",
+                                                              "source_url":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo-220x57.png"
+                                                          },
+                                        "full":  {
+                                                     "file":  "cropped-bamplify-logo.png",
+                                                     "width":  875,
+                                                     "height":  225,
+                                                     "mime_type":  "image/png",
+                                                     "source_url":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png"
+                                                 }
+                                    },
+                          "image_meta":  {
+                                             "aperture":  "0",
+                                             "credit":  "",
+                                             "camera":  "",
+                                             "caption":  "",
+                                             "created_timestamp":  "0",
+                                             "copyright":  "",
+                                             "focal_length":  "0",
+                                             "iso":  "0",
+                                             "shutter_speed":  "0",
+                                             "title":  "",
+                                             "orientation":  "0",
+                                             "keywords":  [
+
+                                                          ],
+                                             "alt":  ""
+                                         }
+                      },
+    "post":  1048,
+    "source_url":  "https://www.bamplify.io/wp-content/uploads/2026/08/cropped-bamplify-logo.png",
+    "filename":  "cropped-bamplify-logo.png",
+    "filesize":  17182,
+    "_links":  {
+                   "self":  [
+                                {
+                                    "href":  "https://www.bamplify.io/wp-json/wp/v2/media/1049",
+                                    "targetHints":  {
+                                                        "allow":  [
+                                                                      "GET"
+                                                                  ]
+                                                    }
+                                }
+                            ],
+                   "collection":  [
+                                      {
+                                          "href":  "https://www.bamplify.io/wp-json/wp/v2/media"
+                                      }
+                                  ],
+                   "about":  [
+                                 {
+                                     "href":  "https://www.bamplify.io/wp-json/wp/v2/types/attachment"
+                                 }
+                             ],
+                   "author":  [
+                                  {
+                                      "embeddable":  true,
+                                      "href":  "https://www.bamplify.io/wp-json/wp/v2/users/1"
+                                  }
+                              ],
+                   "replies":  [
+                                   {
+                                       "embeddable":  true,
+                                       "href":  "https://www.bamplify.io/wp-json/wp/v2/comments?post=1049"
+                                   }
+                               ],
+                   "wp:attached-to":  [
+                                          {
+                                              "embeddable":  true,
+                                              "post_type":  "attachment",
+                                              "id":  1048,
+                                              "href":  "https://www.bamplify.io/wp-json/wp/v2/media/1048"
+                                          }
+                                      ],
+                   "curies":  [
+                                  {
+                                      "name":  "wp",
+                                      "href":  "https://api.w.org/{rel}",
+                                      "templated":  true
+                                  }
+                              ]
+               }
+}
